@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Chloe aka @cknduo
-- 👀 I'm into geology, aviation, aerospace, rapelling down waterfalls, ecommerce, and building businesses
+- 👀 I love geology, aviation, aerospace, rapelling down waterfalls, ecommerce, and building businesses
 - 🌱 I’m currently making my portfolio using Gatsby, stay tuned!
 - 📫 Drop me a line at chloeesilvester@gmail.com or send me a message on LinkedIn at linkedin.com/in/chloesilvester
